@@ -1,7 +1,7 @@
 /*
   Deno is a runtime that is secure by default, this means that
   the program needs explicit permissions.
-  Command: deno run --allow-net=deno.com first_steps.ts
+  Command: deno run --allow-net=deno.com src/main.ts
 */
 
 /**
